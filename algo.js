@@ -1,4 +1,4 @@
-var mostWordsFound = function(sentences) {
+iiiii::var mostWordsFound = function(sentences) {
     let maximumCount = sentences[0].split(" ").length
     for(let i = 1; i < sentences.length; i++)
         {
